@@ -1,0 +1,11 @@
+ #Take user input Name Age Roll Number Phone number
+print("This is task one to display user details")
+User_name = input("Enter your Name ")
+User_age = input("Enter your Age ")
+User_RollNumber = input("Enter your Roll Number ")
+User_Phonenumber = input("Enter your Phone Number ")
+print("\n" "Student Details:")
+print("Name : ", User_name)
+print("Age : ", User_age)
+print("Roll Number : ", User_RollNumber)
+print("Phone Number : ", User_Phonenumber)
